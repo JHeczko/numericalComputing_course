@@ -75,6 +75,12 @@ Contains implementations of iterative linear solvers for tridiagonal systems:
   - Uses a tridiagonal solver (Thomas) as the linear solve inner step
   - Compares eigenvectors / eigenvalues against NumPy’s `linalg.eig`
 
+### `vegas_integral`
+- 
+
+### `ditribution_generator`
+- 
+
 ---
 
 ## 🚀 How to Run
